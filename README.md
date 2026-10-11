@@ -41,8 +41,7 @@ Python-DA Project/
 │
 ├── Python_DA_Project.ipynb
 ├── README.md
-└── Documentation/
-    └── Project_Documentation.pdf
+
 ```
 
 ---
@@ -218,7 +217,7 @@ Data Manipulation
 
 ## 👩‍💻 Author
 
-**Ange**
+**Angeline E**
 
 **Data Analyst | SQL | Power BI | Python | Excel**
 
